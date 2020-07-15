@@ -3,10 +3,10 @@ module.exports = {
     title: `HAZURE komuin Blog`,
     author: {
       name: `keypon`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `テスト中です`,
     },
     description: `日々思ったことや考えたことなど`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://hazure-komuin.netlify.app/`,
     social: {
       twitter: `kylemathews`,
     },
