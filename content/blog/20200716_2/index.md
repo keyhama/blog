@@ -1,6 +1,6 @@
 ---
 title: ブログ開設までの記録
-date: "2020-07-16T22:46:37.121Z"
+date: "2020-07-15T22:46:37.121Z"
 description: "GitHub & Gatsby & Netlifyで運営しています。"
 ---
 ####〇環境
