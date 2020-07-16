@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `HAZURE komuin Blog`,
+    title: `HAZURE komuin Briefcase Blog`,
     author: {
-      name: `keypon`,
-      summary: `テスト中です`,
+      name: `ハズレ公務員`,
+      summary: `テスト運用中`,
     },
-    description: `日々思ったことや考えたことなど`,
+    description: `ハズレ公務員と名高い筆者が、日々思ったことや考えたことなどを綴っています。ハズレ仲間募集中。`,
     siteUrl: `https://hazure-komuin.netlify.app/`,
     social: {
       twitter: `kylemathews`,
