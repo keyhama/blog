@@ -1,7 +1,7 @@
 ---
 title: ブログ開設までの記録
 date: "2020-07-15T22:46:37.121Z"
-description: "GitHub & Gatsby & Netlifyで運営しています。"
+description: "GitHub & Gatsby & Netlifyで運営してます"
 ---
 ####〇環境
 ・windows 10
