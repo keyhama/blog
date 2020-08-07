@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `HAZURE komuin Blog`,
     author: {
-      name: `ハズレ公務員`,
-      summary: `テスト運用中`,
+      name: `keypon`,
+      summary: `ブリーフケース的な備忘録`,
     },
-    description: `ハズレ公務員と名高い筆者が、日々思ったことや考えたことなどを綴っています。仲間募集中。`,
+    description: `ハズレ公務員と名高い筆者が、日々思ったことや考えたことなどを綴っています。ハズレ仲間募集中。`,
     siteUrl: `https://hazure-komuin.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `keypon5`,
     },
   },
   plugins: [
